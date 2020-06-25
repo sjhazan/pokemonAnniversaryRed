@@ -320,7 +320,7 @@ Mon108_EvosMoves: ; 3b262 (e:7262)
 Mon102_EvosMoves: ; 3b26e (e:726e)
 ;EXEGGCUTE
 ;Evolutions
-	db EV_ITEM,LEAF_STONE ,1,EXEGGUTOR
+	db EV_ITEM,LEAF_STONE,1,EXEGGUTOR
 	db 0
 ;Learnset
 	db 25,REFLECT
@@ -442,7 +442,7 @@ Mon130_EvosMoves: ; 3b2ea (e:72ea)
 Mon090_EvosMoves: ; 3b2f6 (e:72f6)
 ;SHELLDER
 ;Evolutions
-	db EV_ITEM,WATER_STONE ,1,CLOYSTER
+	db EV_ITEM,WATER_STONE,1,CLOYSTER
 	db 0
 ;Learnset
 	db 18,SUPERSONIC
@@ -490,7 +490,7 @@ Mon123_EvosMoves: ; 3b324 (e:7324)
 Mon120_EvosMoves: ; 3b332 (e:7332)
 ;STARYU
 ;Evolutions
-	db EV_ITEM,WATER_STONE ,1,STARMIE
+	db EV_ITEM,WATER_STONE,1,STARMIE
 	db 0
 ;Learnset
 	db 17,WATER_GUN
@@ -1085,7 +1085,7 @@ Mon038_EvosMoves: ; 3b590 (e:7590)
 Mon025_EvosMoves: ; 3b592 (e:7592)
 ;PIKACHU
 ;Evolutions
-	db EV_ITEM,THUNDER_STONE ,1,RAICHU
+	db EV_ITEM,THUNDER_STONE,1,RAICHU
 	db 0
 ;Learnset
 	db 9,THUNDER_WAVE
@@ -1264,8 +1264,8 @@ Mon133_EvosMoves: ; 3b644 (e:7644)
 ;EEVEE
 ;Evolutions
 	db EV_ITEM,FIRE_STONE,1,FLAREON
-	db EV_ITEM,THUNDER_STONE ,1,JOLTEON
-	db EV_ITEM,WATER_STONE ,1,VAPOREON
+	db EV_ITEM,THUNDER_STONE,1,JOLTEON
+	db EV_ITEM,WATER_STONE,1,VAPOREON
 	db 0
 ;Learnset
 	db 27,QUICK_ATTACK
@@ -1366,7 +1366,7 @@ Mon046_EvosMoves: ; 3b6bd (e:76bd)
 Mon061_EvosMoves: ; 3b6cc (e:76cc)
 ;POLIWHIRL
 ;Evolutions
-	db EV_ITEM,WATER_STONE ,1,POLIWRATH
+	db EV_ITEM,WATER_STONE,1,POLIWRATH
 	db 0
 ;Learnset
 	db 16,HYPNOSIS
@@ -2119,7 +2119,7 @@ Mon043_EvosMoves: ; 3b992 (e:7992)
 Mon044_EvosMoves: ; 3b9a3 (e:79a3)
 ;GLOOM
 ;Evolutions
-	db EV_ITEM,LEAF_STONE ,1,VILEPLUME
+	db EV_ITEM,LEAF_STONE,1,VILEPLUME
 	db 0
 ;Learnset
 	db 15,POISONPOWDER
@@ -2155,7 +2155,7 @@ Mon069_EvosMoves: ; 3b9bd (e:79bd)
 Mon070_EvosMoves: ; 3b9d0 (e:79d0)
 ;WEEPINBELL
 ;Evolutions
-	db EV_ITEM,LEAF_STONE ,1,VICTREEBEL
+	db EV_ITEM,LEAF_STONE,1,VICTREEBEL
 	db 0
 ;Learnset
 	db 13,WRAP
